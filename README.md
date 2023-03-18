@@ -2,6 +2,8 @@
 
 Introduction to Natural Language Processing
 
+<img src="https://i.postimg.cc/Qx0fLKtJ/lang-pic.jpg" width=500>
+
 # About
 
 I made these notebooks whilst learning the fundamentals of Natural Language Processing between Dec 2022 and Feb 2023. These are intended as tutorials for others to learn from as well. Originally posted on Kaggle, see here: https://www.kaggle.com/code/samuelcortinhas/nlp1-tokenization
