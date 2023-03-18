@@ -2,7 +2,7 @@
 
 Introduction to Natural Language Processing
 
-<img src="https://i.postimg.cc/Qx0fLKtJ/lang-pic.jpg" width=500>
+[![lang-pic.jpg](https://i.postimg.cc/Qx0fLKtJ/lang-pic.jpg)](https://postimg.cc/3d0XmR2k)
 
 # About
 
