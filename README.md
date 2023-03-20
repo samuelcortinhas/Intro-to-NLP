@@ -8,6 +8,8 @@ Introduction to Natural Language Processing
 
 I made these notebooks whilst learning the fundamentals of Natural Language Processing between Dec 2022 and Feb 2023. These are intended as tutorials for others to learn from as well. Originally posted on Kaggle, see here: https://www.kaggle.com/code/samuelcortinhas/nlp1-tokenization
 
+# Structure
+
 In total there are 10 notebooks that go through the major topics in NLP:
 
 * NLP1 - Tokenization
